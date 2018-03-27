@@ -1,0 +1,8 @@
+**.swp
+**.swo
+**/node_modules/**
+**/src/_temp/**
+**/build/**
+**src/_tmp/**
+src/_tmp/**
+**/.DS_store

@@ -1,0 +1,19 @@
+{
+  "name": "eslint-import-resolver-webpack-alias",
+  "version": "0.1.0",
+  "description": "eslint import resolver for webpack alias",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "eslint-import",
+    "webpack",
+    "alias"
+  ],
+  "author": "Wang jia",
+  "license": "MIT"
+}
