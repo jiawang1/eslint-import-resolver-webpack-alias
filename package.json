@@ -1,19 +1,23 @@
 {
-  "name": "eslint-import-resolver-webpack-alias",
-  "version": "0.1.0",
-  "description": "eslint import resolver for webpack alias",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "test"
-  },
-  "keywords": [
-    "eslint-import",
-    "webpack",
-    "alias"
-  ],
-  "author": "Wang jia",
-  "license": "MIT"
+	"name": "eslint-import-resolver-webpack-alias",
+	"version": "0.1.0",
+	"description": "eslint import resolver for webpack alias",
+	"main": "index.js",
+	"engines": {
+		"node": ">=4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jiawang1/eslint-import-resolver-webpack-alias.git"
+	},
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "test"
+	},
+	"files": ["index.js"],
+	"keywords": ["eslint-import", "webpack", "alias"],
+	"author": "Wang jia",
+	"license": "MIT"
 }
