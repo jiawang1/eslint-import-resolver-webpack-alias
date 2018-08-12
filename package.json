@@ -1,17 +1,17 @@
 {
 	"name": "eslint-import-resolver-webpack-alias",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "eslint import resolver for webpack alias",
 	"main": "index.js",
 	"engines": {
-		"node": ">=4"
+		"node": ">=6"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jiawang1/eslint-import-resolver-webpack-alias.git"
 	},
-	"directories": {
-		"test": "test"
+	"peerDependencies": {
+		"eslint-plugin-import": ">=1.4.0"
 	},
 	"scripts": {
 		"test": "test"
